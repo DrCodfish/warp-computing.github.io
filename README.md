@@ -1,1 +1,1 @@
-The Website for Warp Computing
+The home page on Warp Computing's website.
